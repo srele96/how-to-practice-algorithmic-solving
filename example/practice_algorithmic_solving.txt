@@ -1,0 +1,172 @@
+practice implementing recursive solutions iteratively...
+
+timer makes my thoughts time aware, sharper, efficient
+
+DO NOT DISCARD SOLUTIONS TOO FAST SIMPLY BECAUSE IT FEELS DIFFICULT OR NOT RIGHT
+
+
+
+
+to a problem i dont know a solution what kinds of input can i get, how much does it vary
+why am i not able to come up with a solution when inputs are so many and i don't know a technique that can solve it
+cases i have to handle overwhelm me while for problems i am aware of technique i can use to solve them i focus on looking for a
+  pattern or i already know a solution and im translating it to code
+looking for a solution is different...
+
+
+
+
+
+difficult? solving problems is difficult? why? it is difficult to start solving? it becomes difficult after some time?
+
+once it becomes difficult it feels heavy to continue
+
+it starts feeling like bumping in the wall. Like i see cake and someone is making me trip. Stop focusing on the cake and focus not to get tripped.
+
+i dislike feeling of searching for a solution if i don't know it on top of my mind.
+
+to get to a point where i can figure out a solution on top of my mind i have to do what? if i can not figure it out and don't know it immediately then ask chatgpt and learn solution and move on to the next one!
+
+cause i don't want to feel what i dislike. Looking for a solution is a process of laying out hmmm...
+
+finding solution is one thing.
+
+second is to find patterns in the solution to transfer it to the code.
+
+both of those suck. how can i reduce the amount i do them for?
+
+why else has it happened? how can i make my mind more efficient?
+
+perhaps the practice i did yield that skill, maybe i could use it to enhance my dsa skills? there are areas to improve - two pointers - why do those techniques even work??? those problems are so complicated?
+
+
+
+
+-----------------------
+-----------------------
+-----------------------
+
+
+
+
+- figure out the initial template and execute manually using thought process
+  and fix bugs and test code on the go against various cases
+- use timer to do bursts of 30 minutes and 5 minutes breaks to keep focus and
+  efficiency
+- the same approach i use to solve algorithmic problems i use to solve other
+  problems in every day programming work
+- i don't understand why do people say that algorithmic problem solving is not
+  useful because i can see a lot of my programming habits are effectively
+  reflected in solving algorithmic problems
+
+  for example i quit too early instead of digging deeper into the problem on
+  the first sight of difficulty or my current solution not working instead of
+  exploring why it doesnt work, debugging it, executing it, understanding what
+  went wrong, looking for a reason i couldn't figure out how to solve it and
+  practicing to improve it
+- nothing is obvious in life, everything has to be learned and practiced
+- regardless the amount of practice yesterday, i don't feel advancement today
+  it feels like improvements are minor and happen over period of time, maybe
+  similarly to how gym athletes do one muscle group once each week
+
+
+
+
+-----------------------
+-----------------------
+-----------------------
+
+
+
+
+learning everything possible is one way of traning that i employed throughout my last year
+creating a problem for a solution is another way of training
+conceptual thinking of a problem and solution is another way of training
+solving leetcode problems is another way of training
+... i can combine the techniques ...
+... utilization of long term memory and suitable practice like steve faloon ...
+
+
+
+
+-----------------------
+-----------------------
+-----------------------
+
+
+
+-------------------------------------------------------------------------------
+BEGIN - PLATEAU OF ORDINARY EXERCISE
+-------------------------------------------------------------------------------
+why does initially the sheer amount of practice and problem solved matter, but eventually that kind of practice reaches plateau and does not yield any further improvements?
+
+--
+
+The phenomenon you're describing is related to the principles of deliberate practice and the learning curve in general.
+
+Initial Rapid Improvement: When you first start practicing a new skill, such as problem-solving in programming, you're often starting with a limited understanding of the subject. In this phase, almost any practice will result in improvement because you're filling in large gaps in knowledge and skills. You're learning the fundamentals, building basic competence, and developing an understanding of key concepts.
+
+Diminishing Returns and Plateau: As you become more skilled and knowledgeable, the same practice methods that worked initially may become less effective. This is because you've already mastered the basic concepts, and simple repetition may no longer challenge you or push you to improve further. You may reach a plateau where you're competent but not continuing to improve significantly.
+
+Transition to Deliberate Practice: To break through this plateau and continue improving, you need to engage in more targeted and deliberate practice. This involves carefully identifying your specific weaknesses or areas where you can still improve, setting clear goals, and practicing in a focused and intentional way. You'll likely need more complex problems and challenges that push you beyond your comfort zone. This requires more effort and can be more difficult, but it's essential for continued growth.
+
+Expertise Requires Specialized Training: As you reach higher levels of skill, the nuances and complexities of the subject require specialized training and focus. At this stage, working with a mentor or coach who can provide expert feedback and guidance may become critical. The "one-size-fits-all" approach to practice becomes less effective, and personalized, focused training becomes more important.
+
+Physical and Cognitive Limitations: Finally, it's essential to recognize that there are physical and cognitive limitations to improvement. There's a limit to how much information the brain can process and how finely motor skills can be tuned. You can continue to improve, but the rate of improvement may slow down as you approach these natural limitations.
+
+So, the transition from broad practice to more focused and deliberate practice reflects the nature of learning and skill development. Initially, you're building a foundation, but as you become more skilled, you need more targeted and sophisticated methods to continue improving. This aligns with the principles of deliberate practice described by Anders Ericsson, where continued growth requires a focus on specific weaknesses, immediate feedback, and pushing beyond the comfort zone.
+-------------------------------------------------------------------------------
+END - PLATEAU OF ORDINARY EXERCISE
+-------------------------------------------------------------------------------
+
+
+
+
+-----------------------
+-----------------------
+-----------------------
+
+
+
+
+
+what i was doing in that one year, reversing the problem solving process
+i wasn't figuring out solutions to problems, i was thinking about components and how they play together
+i reversed the problem solving process of programming where i was programming the solution i already knew
+which means that to practice c++ and what i can do with it, i could using pseudo-code go algorithmically
+  through behavior that i want and write some thousands of pseudo code which then i can translate to run
+  using purely C++ without any libraries
+
+  what it would allow is to have a lot of code that's already implemented and i only have to rewrite it
+  or rather figure out how to rewrite it using c++, i should avoid constructs such as first class functions
+  where they are treated like variables
+i can use the same concept of reversing the process by drawing a graph, tree, or some other data structure
+and start figuring out various kinds of behavior, movement, etc, through that data structure
+  * the data structure may be recursive by nature and i could do many recursive patterns using it...
+what it would allow me is to practice some more of c++ and from different angle approach algorithmic design...
+  i wouldn't figure out solutions to problems whose solutions i don't know, i would go through some state
+  for example a graph of a city, a tree describing something, a trie containing various data, etc...
+  figure out a behavior i would like to have in that tree, that way i don't have a problem i figure out a
+  solution in a painless way and practice various activities over data structures which should allow me
+  to increase familiarity, so when a problem comes which may be mapped to my solution,
+also that process would be somewhat easier than cognitive creation of solutions to various problems
+
+question: how do i come up with these ideas? these ideas have worked for me
+  - they yielded me great success learning c++ in painless manner
+  - they yielded me great skill using reactjs
+  - they allowed me to figure out a way to learn math and other natural sciences
+  - they allowed me to think of unique ways to do studying which often felt tedious
+  -
+
+-----------------------------------------
+
+* think about one thing i can take out of this book, speach, etc... to improve
+* have i lived it? no, then i don't understand and should apply it to understand
+  * understand before rejecting an idea with an explanation of why it won't work
+
+
+
+
+-----------------------
+-----------------------
+-----------------------
